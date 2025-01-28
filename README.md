@@ -96,7 +96,7 @@ At Metamorph Media, we don’t just redesign websites—we reimagine them. Wheth
         <div class="row">
             <div class="column price-card">
                 <h3>Basic Care</h3>
-                <h4>$50/mo</h4>
+                <h4>$5/mo</h4>
                 <ul>
                     <li>Weekly updates</li>
                     <li>Security checks</li>
@@ -105,7 +105,7 @@ At Metamorph Media, we don’t just redesign websites—we reimagine them. Wheth
             </div>
             <div class="column price-card">
                 <h3>Pro Care</h3>
-                <h4>$100/mo</h4>
+                <h4>$15/mo</h4>
                 <ul>
                     <li>Everything in Basic</li>
                     <li>Daily monitoring</li>
